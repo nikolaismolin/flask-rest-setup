@@ -4,3 +4,5 @@ sklearn
 numpy
 scipy
 pandas
+flask
+flask_restful
